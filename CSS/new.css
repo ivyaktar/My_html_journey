@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="app.css">
+    <title>Document</title>
+    
+    <style>
+        h2 {
+            text-align: left;
+        }
+
+        h3 {
+            text-align: center;
+        }
+
+        h4 {
+            text-align: right;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            /* The screenshot shows 'center' being typed, though text-align on an 
+            inline element like <a> often has no visible effect unless it's a 
+            block element or centered via its parent. */
+            text-align: center;
+        }
+    </style>
+    </head>
+<body>
+    <h2>waistcoat cold-pressed chambray</h2>
+    <h3>Meh pug mustache cray</h3>
+    <h4>Kogi meggings meditation</h4>
+    <p>Trust fund unicorn master cleanse biodiesel flannel enamel pin. Mikshk PBR&B hexagon blackbird spypiane, pork belly praxis cloud bread cupping godard knausgaard thundercats vinyl cornhole waxing. Wayfarers chartreuse letterpress tbh salvia scenewester godard big mood DIY PBR&B mukbang biodiesel ascot plaid vexillologist Stumptown williamsburg shaman thundercats plaid vaporware raclette. Unicorn austin try-hard four loko, wolf moon prism meggings cardigan venmo Brooklyn pickled.</p>
+    <a href="https://www.google.com/">tofu</a>
+</body>
+</html>
